@@ -1,1 +1,1 @@
-# company-svg
+Welcome to the Company SVG Logos repository! This repository contains a collection of SVG logos and icons from various companies, made available for open-source use. Whether you're a designer, developer, or anyone working on creative projects, you're welcome to explore and utilize these SVGs in accordance with the provided licenses.
